@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParthaGhosH0077
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Express js
+- 🌱 I’m currently learning MongoDB
 - 💞️ I’m looking to collaborate on any interships
 - 📫 How to reach me my mail "parthasarathighosh687@gmail.com
 
