@@ -1,4 +1,3 @@
-![logo] (https://github.com/ParthaGhosH0077/ParthaGhosH0077/blob/main/PG.png)
 
 <h1 align="center">Hi 👋, I'm PARTHA SARATHI GHOSH</h1>
 <h3 align="center">I'm a passionate Frontend Developer skilled in HTML, CSS, and JavaScript. I specialize in creating dynamic user interfaces with GSAP.js, Locomotive.js, and React.js. On the backend, I work with Node.js, Express.js, and MongoDB to build efficient and scalable applications. With a keen eye for design, I also utilize Figma and apply color theory principles to craft visually appealing UI/UX designs.</h3>
