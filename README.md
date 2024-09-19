@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PARTHA SARATHI GHOSH</h1>
-<h3 align="center">I'm a passionate Frontend Developer skilled in HTML, CSS, and JavaScript. I specialize in creating dynamic user interfaces with GSAP.js, Locomotive.js, and React.js. On the backend, I work with Node.js, Express.js, and MongoDB to build efficient and scalable applications. With a keen eye for design, I also utilize Figma and apply color theory principles to craft visually appealing UI/UX designs.</h3>
+<h3 align="center">I'm a passionate Software Developer skilled in higher mathematics React framwworks , Cloude computiong and JavaScript. I specialize in creating dynamic user interfaces with GSAP.js, Locomotive.js, and React.js. On the backend, I work with Node.js, Express.js, and MongoDB to build efficient and scalable applications. With a keen eye for design, I also utilize Figma and apply color theory principles to craft visually appealing UI/UX designs.</h3>
 
 <img align = "right" alt="coding" width="400" src="https://camo.githubusercontent.com/7e4fde20d16f05f7f68d5fbe55fff4bdc0b43486b11a95aa21b443bb1cd6e622/68747470733a2f2f632e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966" >
 
